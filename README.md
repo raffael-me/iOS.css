@@ -1,4 +1,4 @@
-iOS.css
-=======
+301 MOVED!
+==========
 
-High quality lib (CSS, JS) to imitate native iOS UI elements in Web Applications.
+This repo has been moved to my new account: https://github.com/raffael/iOS.css/
